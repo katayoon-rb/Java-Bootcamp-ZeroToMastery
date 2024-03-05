@@ -1,4 +1,4 @@
-package constructors.exercises.exercise4constructorsandinheritance;
+package constructors.exercise4constructorsandinheritance;
 
 public class ConstructorsInheritanceExample {
     public static void main(String[] args) {
