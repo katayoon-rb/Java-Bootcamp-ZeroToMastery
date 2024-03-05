@@ -1,4 +1,4 @@
-package interfaces.exercises;
+package interfaces;
 
 public interface Countable {
     default void printInfo() {
