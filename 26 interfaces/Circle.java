@@ -1,4 +1,4 @@
-package interfaces.exercises;
+package interfaces;
 
 public class Circle implements Drawable {
     @Override
