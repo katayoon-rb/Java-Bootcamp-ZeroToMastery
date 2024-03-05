@@ -1,4 +1,4 @@
-package enums.exercises.exercise3gamestatus;
+package enums.exercise3gamestatus;
 
 public class GameStatusesExample {
     public static void main(String[] args) {
