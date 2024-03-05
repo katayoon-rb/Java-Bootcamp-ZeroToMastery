@@ -1,4 +1,4 @@
-package enums.exercises.exercise1basicenum;
+package enums.exercise1basicenum;
 
 public class BasicEnumsExample {
     public static void main(String[] args) {
