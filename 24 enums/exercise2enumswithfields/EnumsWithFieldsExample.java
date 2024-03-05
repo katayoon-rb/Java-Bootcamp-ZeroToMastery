@@ -1,4 +1,4 @@
-package enums.exercises.exercise2enumswithfields;
+package enums.exercise2enumswithfields;
 
 public class EnumsWithFieldsExample {
     public static void main(String[] args) {
