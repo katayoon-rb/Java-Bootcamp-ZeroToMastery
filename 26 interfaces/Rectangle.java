@@ -1,4 +1,4 @@
-package interfaces.exercises;
+package interfaces;
 
 public class Rectangle implements DrawableWithDefault, Countable {
     @Override
