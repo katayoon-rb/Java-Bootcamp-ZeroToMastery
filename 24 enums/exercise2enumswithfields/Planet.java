@@ -1,4 +1,4 @@
-package enums.exercises.exercise2enumswithfields;
+package enums.exercise2enumswithfields;
 
 public enum Planet {
     MERCURY("Mercury", 0.39),
